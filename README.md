@@ -99,6 +99,7 @@ src/main/resources/application.properties
 
 Example:
 
+![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/660da0c00a3e0e0c4a606ed8b40458f754c930bd/Screenshot%202026-08-18%20013747.png)
 
 
 
