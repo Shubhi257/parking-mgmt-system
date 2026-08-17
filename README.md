@@ -109,6 +109,15 @@ The project includes Spring Boot testing dependencies.
 
 ![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/0d6e8f47a94935590abdbbf73dfebb4db41bbb4f/Screenshot%202026-08-18%20014253.png)
 
+🔍 API Testing:
+
+The APIs can be tested using:
+
+Postman
+
+
+📊 Working Flow:
+
 
 
 
