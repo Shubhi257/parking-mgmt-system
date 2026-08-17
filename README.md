@@ -119,5 +119,6 @@ Postman
 📊 Working Flow:
 
 
+![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/c2be4cf41427585f8ffba8c12a225b9799159500/Screenshot%202026-08-18%20014615.png)
 
 
