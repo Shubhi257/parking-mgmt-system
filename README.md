@@ -9,14 +9,18 @@ parking entries, and parking records.
 
 The Parking Management System is a Spring Boot REST API application designed 
 to simplify parking management.
+
+
 The application uses:
-Spring Boot for backend development
-Spring Web MVC for REST APIs
-Spring Data JPA for database operations
-Hibernate/JPA for ORM
-MySQL for persistent data storage
-Maven for dependency management and build
-Java 21 as the programming language
+
+
+→ Spring Boot for backend development
+→ Spring Web MVC for REST APIs
+→ Spring Data JPA for database operations
+→ Hibernate/JPA for ORM
+→ MySQL for persistent data storage
+→ Maven for dependency management and build
+→ Java 21 as the programming language
 
 🏗 Architecture:
 
