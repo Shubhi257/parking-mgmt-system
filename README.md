@@ -1,10 +1,12 @@
-🚗 Parking Management System
+🚗 Parking Management System:
+
 A backend application built using Spring Boot, Spring Data JPA, and MySQL to 
 manage parking-related operations through REST APIs.
 The system provides a structured backend for managing parking slots, vehicles, 
 parking entries, and parking records.
 
-📌 Project Overview
+📌 Project Overview:
+
 The Parking Management System is a Spring Boot REST API application designed 
 to simplify parking management.
 The application uses:
@@ -16,27 +18,12 @@ MySQL for persistent data storage
 Maven for dependency management and build
 Java 21 as the programming language
 
-🏗 Architecture
-The application follows a layered Spring Boot architecture:
-                    ![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/02adb00a56bdc04049724dbf8ae417a28454bbe2/Screenshot%202026-08-18%20005136.png)
+🏗 Architecture:
+![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/02adb00a56bdc04049724dbf8ae417a28454bbe2/Screenshot%202026-08-18%20005136.png)
                     
 
-Request Flow
-Client
-   ↓
-Controller
-   ↓
-Service
-   ↓
-Repository
-   ↓
-JPA / Hibernate
-   ↓
-MySQL
-   ↓
-Response
-   ↓
-Client
+Request Flow:
+
 
 🛠Tech Stack
 Technology: Purpose
