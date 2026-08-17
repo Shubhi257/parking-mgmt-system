@@ -19,11 +19,14 @@ Maven for dependency management and build
 Java 21 as the programming language
 
 🏗 Architecture:
+
+
 ![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/02adb00a56bdc04049724dbf8ae417a28454bbe2/Screenshot%202026-08-18%20005136.png)
                     
 
 Request Flow:
 
+    
 
 🛠Tech Stack
 Technology: Purpose
