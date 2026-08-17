@@ -163,9 +163,7 @@ The project includes Spring Boot testing dependencies.
 
 🔍 API Testing:
 
-The APIs can be tested using:
-
-Postman
+The APIs can be tested using: Postman
 
 
 📊 Working Flow:
