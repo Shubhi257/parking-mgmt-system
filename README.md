@@ -28,15 +28,8 @@ Request Flow:
 
 ![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/c1b39ccdb34ec1fc92bee0a111dbbf2ba49f10e3/Screenshot%202026-08-18%20005912.png)  
 
-🛠Tech Stack
-Technology: Purpose
-Java 21: Programming Language
-Spring Boot: 4.1.0 Backend Framework
-Spring Web MVC: REST API Development
-Spring Data JPA: Database Access
-Hibernate: ORM
-MySQL: Database
-Maven: Build & Dependency Management
-JUnit / Spring Boot Test: Testing
+🛠Tech Stack:
+
+![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/df282f38f84c295f3e8d37125c84daf1c9d69417/Screenshot%202026-08-18%20010729.png)
 
 
