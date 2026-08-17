@@ -18,23 +18,8 @@ Java 21 as the programming language
 
 🏗 Architecture
 The application follows a layered Spring Boot architecture:
-                    Client
-                      |
-                      | HTTP Request
-                      v
-              +----------------+
-              |   Controller   |
-              +----------------+
-                      |
-                      v
-              +----------------+
-              |    Service     |
-              +----------------+
-                      |
-                      v
-              +----------------+
-              |   Repository   |
-              +----------------+
+                    ![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/02adb00a56bdc04049724dbf8ae417a28454bbe2/Screenshot%202026-08-18%20005136.png)
+                    
 
 Request Flow
 Client
