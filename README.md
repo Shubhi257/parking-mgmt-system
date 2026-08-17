@@ -26,7 +26,7 @@ Java 21 as the programming language
 
 Request Flow:
 
-  
+![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/c1b39ccdb34ec1fc92bee0a111dbbf2ba49f10e3/Screenshot%202026-08-18%20005912.png)  
 
 🛠Tech Stack
 Technology: Purpose
