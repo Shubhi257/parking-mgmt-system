@@ -36,4 +36,5 @@ Request Flow:
 
 A recommended structure for the Parking Management System is:
 
+![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/e224be4a8fb4bb3225cdfff5a91d62a91317a0d5/Screenshot%202026-08-18%20011135.png)
 
