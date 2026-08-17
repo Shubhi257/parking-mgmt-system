@@ -94,7 +94,9 @@ The project includes the MySQL Connector/J runtime dependency in pom.xml.
 ![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/f97cb92aae3c4b30ba9eaf0386382f43159bd790/Screenshot%202026-08-18%20013116.png)
 
 ⚙ Configuration:
+
 Database configuration can be provided in:
+
 src/main/resources/application.properties
 
 Example:
