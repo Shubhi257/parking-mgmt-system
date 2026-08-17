@@ -32,4 +32,8 @@ Request Flow:
 
 ![image alt](https://github.com/Shubhi257/parking-mgmt-system/blob/df282f38f84c295f3e8d37125c84daf1c9d69417/Screenshot%202026-08-18%20010729.png)
 
+📂Project Structure
+
+A recommended structure for the Parking Management System is:
+
 
