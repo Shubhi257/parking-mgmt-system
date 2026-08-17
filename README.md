@@ -47,35 +47,69 @@ The application can be organized around the following modules.
 Responsible for managing vehicles entering and leaving the parking facility.
 
 → Typical operations:
+
+
 a) Add Vehicle
+
+
 b) Get Vehicle
+
+
 c) Update Vehicle
+
+
 d) Delete Vehicle
+
 
 2. Parking Slot Management:
 
 Responsible for managing available and occupied parking slots.
 
 → Typical operations:
+
+
 a) Create Parking Slot
+
+
 b) View Parking Slots
+
+
 c) Check Slot Availability
+
+
 d) Update Slot Status
 
+
 → Example slot states:
+
+
 a) AVAILABLE
+
+
 b) OCCUPIED
+
 
 3. Parking Management:
 
 Responsible for maintaining parking records.
 
 A parking record can contain information such as:
+
 a) Vehicle
+
+
 b) Parking Slot
+
+
 c) Entry Time
+
+
 d) Exit Time
+
+
 e) Parking Status
+
+
 
 🌐 REST API:
 
